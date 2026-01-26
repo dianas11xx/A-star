@@ -1,0 +1,25 @@
+[
+{
+  "directory": "/mnt/c/Users/Diana/Desktop/Fall 25/AI/Assignment 1/Assignment/build",
+  "command": "/usr/bin/g++   -I../include  -g   -std=gnu++2a -o CMakeFiles/Assignment1.dir/src/P1.cpp.o -c \"/mnt/c/Users/Diana/Desktop/Fall 25/AI/Assignment 1/Assignment/src/P1.cpp\"",
+  "file": "/mnt/c/Users/Diana/Desktop/Fall 25/AI/Assignment 1/Assignment/src/P1.cpp"
+},
+
+{
+  "directory": "/mnt/c/Users/Diana/Desktop/Fall 25/AI/Assignment 1/Assignment/build",
+  "command": "/usr/bin/g++   -I../include  -g   -std=gnu++2a -o CMakeFiles/Assignment1.dir/src/Q1_2.cpp.o -c \"/mnt/c/Users/Diana/Desktop/Fall 25/AI/Assignment 1/Assignment/src/Q1_2.cpp\"",
+  "file": "/mnt/c/Users/Diana/Desktop/Fall 25/AI/Assignment 1/Assignment/src/Q1_2.cpp"
+},
+
+{
+  "directory": "/mnt/c/Users/Diana/Desktop/Fall 25/AI/Assignment 1/Assignment/build",
+  "command": "/usr/bin/g++   -I../include  -g   -std=gnu++2a -o CMakeFiles/Assignment1.dir/src/RoboPath.cpp.o -c \"/mnt/c/Users/Diana/Desktop/Fall 25/AI/Assignment 1/Assignment/src/RoboPath.cpp\"",
+  "file": "/mnt/c/Users/Diana/Desktop/Fall 25/AI/Assignment 1/Assignment/src/RoboPath.cpp"
+},
+
+{
+  "directory": "/mnt/c/Users/Diana/Desktop/Fall 25/AI/Assignment 1/Assignment/build",
+  "command": "/usr/bin/g++   -I../include  -g   -std=gnu++2a -o CMakeFiles/Assignment1.dir/src/main.cpp.o -c \"/mnt/c/Users/Diana/Desktop/Fall 25/AI/Assignment 1/Assignment/src/main.cpp\"",
+  "file": "/mnt/c/Users/Diana/Desktop/Fall 25/AI/Assignment 1/Assignment/src/main.cpp"
+}
+]
